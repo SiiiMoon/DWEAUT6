@@ -1,0 +1,28 @@
+{
+    "name": "alumma/tarea",
+    "description": "proyecto DEAW",
+    "type": "project",
+    "require-dev": {
+        "monolog/monolog": "^3.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alumma\\Tarea\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SiiiMoon",
+            "email": "santonosar@educacion.navarra.es"
+        }
+    ],
+    "require": {
+        "phpdocumentor/shim": "^3.7"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpdocumentor/shim": true
+        }
+    }
+}
