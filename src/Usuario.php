@@ -6,7 +6,6 @@ namespace Alumma\Tarea;
  * Autor: Simon
  * Fecha: 12/03/2025
  */
-
 /**
  * Clase Usuario para gestionar información de usuarios.
  */
